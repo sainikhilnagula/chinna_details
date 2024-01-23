@@ -1,4 +1,9 @@
 {
   "name": "chinna",
   "age": 32
+
+{
+  "name": "chinna",
+  "salary": "30000$" 
 }
+
