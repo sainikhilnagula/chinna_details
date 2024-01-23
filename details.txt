@@ -1,8 +1,6 @@
 
-hello world
 {
-name of institution: UNT
-location: united states
-
-
+  "name": "chinna",
+  "salary": "30000$" 
 }
+
