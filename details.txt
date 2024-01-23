@@ -1,7 +1,7 @@
 
 hello world
 {
-name of institution: unioversity of central missouri
+name of institution: UNT
 location: united states
 
 
