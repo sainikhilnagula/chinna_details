@@ -1,8 +1,4 @@
-
-hello world
 {
-name of institution: UNT
-location: united states
-
-
+  "name": "chinna",
+  "age": 32
 }
